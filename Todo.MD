@@ -1,0 +1,4 @@
+- Activate Windows
+- Turn on Bitlocker
+- Turn on Deepfreeze
+- Edit Power Plan

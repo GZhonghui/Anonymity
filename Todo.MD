@@ -2,3 +2,4 @@
 - Turn on Bitlocker
 - Turn on Deepfreeze
 - Edit Power Plan
+- Install Fonts

@@ -22,8 +22,10 @@
 - Chrome
   - DeepL
   - Search by Image
+  - Substital
+  - Grammarly
 - VM Box
-- Mumu Android Emulator
+- Android Emulator
 - OBS
 - 7-Zip
 - Everything
@@ -38,13 +40,11 @@
 
 ## File
 - WinSCP
-- Baidu Drive
-- Ali Drive
 - Advanced Renamer
 - FreeFileSync
 - RaiDrive
 
 ## Media
-- foobar2000
+- foobar2000 (with Skin)
 - PotPlayer
 - qView

@@ -3,3 +3,6 @@
 - Turn on Deepfreeze
 - Edit Power Plan
 - Install Fonts
+- Change DNS Server
+- Disable Webcam
+- Turn off Sound

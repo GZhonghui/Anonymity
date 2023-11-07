@@ -21,9 +21,13 @@
 - Listary
 - Chrome
   - DeepL
+  - Grammarly
   - Search by Image
   - Substital
-  - Grammarly
+  - Windscribe
+  - Adobe Acrobat
+  - EPUBReader
+
 - VM Box
 - Android Emulator
 - OBS
@@ -48,3 +52,6 @@
 - foobar2000 (with Skin)
 - PotPlayer
 - qView
+
+## Book
+- calibre

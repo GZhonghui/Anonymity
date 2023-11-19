@@ -41,6 +41,7 @@
 - Line
 - Zoom
 - Telegram
+- QQ
 
 ## File
 - WinSCP

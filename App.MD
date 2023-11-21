@@ -9,6 +9,7 @@
   - pip
   - virtualenv
 - Lua
+- Git
 - Blender
 - Photoshop
 

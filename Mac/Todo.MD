@@ -1,4 +1,8 @@
-- No Apple ID
+- Set Local User (without Apple ID)
+- Add Preferred Languages **in the Following Order**
+  - English
+  - Chinese, Simplified
+  - Japanese
 - Turn off AutoFill Passwords
 - Install Command Line Developer Tools (gcc and git)
 - Disable Natural Scrolling

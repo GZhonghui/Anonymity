@@ -1,4 +1,4 @@
-- No Microsoft Account
+- Set Local User (without Microsoft Account)
 - Activate Windows
 - Turn on Bitlocker
 - Turn on Deepfreeze

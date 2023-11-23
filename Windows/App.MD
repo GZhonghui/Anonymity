@@ -4,10 +4,7 @@
 
 ## Dev
 - Visual Studio (with C/C++/C#/Python Package)
-- Visual Studio Code
 - Python 3
-  - pip
-  - virtualenv
 - Lua
 - Git
 - Blender
@@ -20,15 +17,6 @@
 
 ## Tool
 - Listary
-- Chrome
-  - DeepL
-  - Grammarly
-  - Search by Image
-  - Substital
-  - Windscribe
-  - Adobe Acrobat
-  - EPUBReader
-
 - VM Box
 - Android Emulator
 - OBS
@@ -38,11 +26,16 @@
 - RIME
 - Acrobat
 
+## Chrome
+- Search by Image
+- Substital
+- Windscribe
+- Adobe Acrobat
+- EPUBReader
+
 ## Social
 - Line
-- Zoom
 - Telegram
-- QQ
 
 ## File
 - WinSCP

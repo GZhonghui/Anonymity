@@ -1,12 +1,6 @@
+- No Microsoft Account
 - Activate Windows
 - Turn on Bitlocker
 - Turn on Deepfreeze
 - Edit Power Plan
 - Install Fonts
-- Change DNS Server
-- Disable Webcam
-- Turn off Sound
-- Turn off Chrome Functions
-  - Spell Check
-  - Google Translate
-  - Autofill and Passwords

@@ -1,0 +1,7 @@
+- Change DNS Server
+- Disable Webcam
+- Turn off Sound
+- Turn off Chrome Functions
+  - Spell Check
+  - Google Translate
+  - Autofill and Passwords

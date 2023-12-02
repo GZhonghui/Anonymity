@@ -1,5 +1,6 @@
 ## Dev
 - Visual Studio Code
+- CMake
 
 ## Visual Studio Code
 - C/C++

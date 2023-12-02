@@ -9,6 +9,8 @@
 - Git
 - Blender
 - Photoshop
+- Qt
+- MinGW
 
 ## Game
 - Steam

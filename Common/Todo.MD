@@ -1,4 +1,5 @@
 - Disable Automatic Updates
+- Turn on Deepfreeze
 - Change DNS Server
 - Disable Webcam
 - Turn off Sound

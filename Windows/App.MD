@@ -1,6 +1,6 @@
 ## OS
 - Windows 11 (with Update and Driver)
-- Deep Freeze
+- Deep Freeze Standard
 
 ## Dev
 - Visual Studio (with C/C++/C#/Python Package)

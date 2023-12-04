@@ -1,3 +1,4 @@
+- Disable Automatic Updates
 - Change DNS Server
 - Disable Webcam
 - Turn off Sound

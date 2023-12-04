@@ -1,5 +1,6 @@
 ## OS
-- MacOS
+- MacOS (with Update)
+- Deep Freeze for Mac
 
 ## Tool
 - Mos

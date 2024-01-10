@@ -19,4 +19,4 @@
 
 ## Social
 - Zoom
-- Line
+- LINE

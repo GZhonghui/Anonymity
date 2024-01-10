@@ -7,3 +7,4 @@
   - Spell Check
   - Google Translate
   - Autofill and Passwords
+- Register Device for LINE

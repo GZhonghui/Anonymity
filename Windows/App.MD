@@ -35,10 +35,6 @@
 - Adobe Acrobat
 - EPUBReader
 
-## Social
-- Line
-- Telegram
-
 ## File
 - WinSCP
 - Advanced Renamer

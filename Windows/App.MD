@@ -40,6 +40,7 @@
 - Advanced Renamer
 - FreeFileSync
 - RaiDrive
+- HFS
 
 ## Media
 - foobar2000 (with Skin)

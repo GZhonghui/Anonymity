@@ -28,6 +28,9 @@
 - RIME
 - Acrobat
 
+## KeePass 2
+- KeePassOTP
+
 ## Chrome
 - Search by Image
 - Substital
@@ -43,7 +46,7 @@
 - HFS
 
 ## Media
-- foobar2000 (with Skin)
+- foobar2000
 - PotPlayer
 - qView
 

@@ -20,7 +20,6 @@
 ## Tool
 - Listary
 - VM Box
-- Android Emulator
 - OBS
 - 7-Zip
 - Everything

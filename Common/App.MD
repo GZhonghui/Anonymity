@@ -12,10 +12,14 @@
 
 ## Tool
 - Chrome
+- Android Emulator
 
 ## Chrome
 - DeepL
 - Grammarly
+
+## Android Emulator
+- Via
 
 ## Social
 - Zoom

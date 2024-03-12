@@ -21,6 +21,9 @@
 ## Android Emulator
 - Via
 
+## Media
+- foobar2000
+
 ## Social
 - Zoom
 - LINE

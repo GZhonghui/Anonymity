@@ -45,7 +45,6 @@
 - HFS
 
 ## Media
-- foobar2000
 - PotPlayer
 - qView
 

@@ -5,6 +5,7 @@
 ## Tool
 - Mos
 - Keka
+- MacPass
 
 ## Media
 - IINA

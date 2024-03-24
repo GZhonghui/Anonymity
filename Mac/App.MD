@@ -9,3 +9,4 @@
 
 ## Media
 - IINA
+- NetNewsWire

@@ -17,6 +17,7 @@
 ## Chrome
 - DeepL
 - Grammarly
+- Adblock for Youtube
 
 ## Android Emulator
 - Via

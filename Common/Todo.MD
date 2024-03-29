@@ -7,4 +7,6 @@
   - Spell Check
   - Google Translate
   - Autofill and Passwords
-- Register Device for LINE
+- Connect to a Wi-Fi network
+- Pair Bluetooth devices
+- Clear Cookies

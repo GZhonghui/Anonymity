@@ -3,4 +3,3 @@
 - Turn on Bitlocker
 - Edit Power Plan
 - Install Fonts
-- Register Device for Steam

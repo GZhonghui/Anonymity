@@ -13,6 +13,7 @@
 ## Tool
 - Chrome
 - Android Emulator
+- Eudic
 
 ## Chrome
 - DeepL
@@ -28,3 +29,4 @@
 ## Social
 - Zoom
 - LINE
+- WeChat

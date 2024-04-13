@@ -19,6 +19,8 @@
 - DeepL
 - Grammarly
 - Adblock for Youtube
+- Immersive Translate
+- Glarity
 
 ## Android Emulator
 - Via

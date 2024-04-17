@@ -8,5 +8,6 @@
   - Google Translate
   - Autofill and Passwords
 - Connect to a Wi-Fi network
-- Pair Bluetooth devices
-- Clear Cookies
+- Pair Bluetooth Devices
+- Clear Browser Cookies
+- Install Media Files

@@ -13,6 +13,7 @@
 ## Tool
 - Chrome
 - Android Emulator
+- Adobe Acrobat
 - Eudic
 
 ## Chrome

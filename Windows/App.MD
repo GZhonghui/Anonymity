@@ -25,7 +25,6 @@
 - Everything
 - KeePass 2
 - RIME
-- Acrobat
 
 ## KeePass 2
 - KeePassOTP

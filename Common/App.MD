@@ -14,6 +14,7 @@
 - Chrome
 - Android Emulator
 - Adobe Acrobat
+- Dropbox
 - Eudic
 
 ## Chrome

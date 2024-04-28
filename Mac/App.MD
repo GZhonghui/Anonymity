@@ -5,6 +5,10 @@
 ## Dev
 - Homebrew
 
+## Homebrew
+- mpv
+- youtube-dl
+
 ## Tool
 - Mos
 - Keka

@@ -16,6 +16,7 @@
 - Adobe Acrobat
 - Dropbox
 - Eudic
+- BlinkMind
 
 ## Chrome
 - DeepL

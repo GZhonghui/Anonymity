@@ -11,3 +11,4 @@
 - Pair Bluetooth Devices
 - Clear Browser Cookies
 - Install Media Files
+- Set up File Server (HFS or SMB)

@@ -17,6 +17,7 @@
 - Dropbox
 - Eudic
 - BlinkMind
+- RIME
 
 ## Chrome
 - DeepL

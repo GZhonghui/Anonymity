@@ -13,3 +13,4 @@
 - Install Media Files
 - Set up File Server (HFS or SMB)
 - Disable Automatic Sleep
+- Config Chinese Input Method

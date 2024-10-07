@@ -11,6 +11,7 @@
 - Photoshop
 - Qt
 - MinGW
+- WSL
 
 ## Game
 - Steam

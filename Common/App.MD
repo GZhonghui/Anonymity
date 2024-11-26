@@ -31,6 +31,7 @@
 
 ## Media
 - foobar2000
+- VLC
 
 ## Social
 - Zoom

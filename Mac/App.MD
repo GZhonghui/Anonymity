@@ -8,6 +8,7 @@
 ## Homebrew
 - mpv
 - youtube-dl
+- FFmpeg
 
 ## Tool
 - Mos

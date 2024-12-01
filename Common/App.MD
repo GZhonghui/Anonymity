@@ -10,6 +10,7 @@
 - pip
 - virtualenv
 - black
+- spotdl
 
 ## Tool
 - Chrome

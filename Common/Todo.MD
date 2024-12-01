@@ -14,3 +14,6 @@
 - Set up File Server (HFS or SMB)
 - Disable Automatic Sleep
 - Config Chinese Input Method
+- Config Terminal, Vim, VS Code
+- Install Multiple Version of Python
+- Create Python Virtual Environment

@@ -9,6 +9,7 @@
 ## Python
 - pip
 - virtualenv
+- black
 
 ## Tool
 - Chrome

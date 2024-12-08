@@ -9,6 +9,10 @@
 - mpv
 - youtube-dl
 - FFmpeg
+- node (Node.js)
+
+## Node
+- Vue
 
 ## Tool
 - Mos

@@ -16,4 +16,5 @@
 - Config Chinese Input Method
 - Config Terminal, Vim, VS Code
 - Install Multiple Version of Python
-- Create Python Virtual Environment
+- Create Python Virtual Environment (at ~)
+- Config C Compiler Include & Link Path (at ~)

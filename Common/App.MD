@@ -5,6 +5,11 @@
 ## Visual Studio Code
 - C/C++
 - Python
+- ChatGPT
+
+## C Library
+- Boost
+- Eigen
 
 ## Python
 - pip
@@ -20,6 +25,7 @@
 - Eudic
 - BlinkMind
 - RIME
+- ChatGPT
 
 ## Chrome
 - DeepL

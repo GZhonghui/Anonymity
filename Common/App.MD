@@ -1,6 +1,8 @@
 ## Dev
 - Visual Studio Code
 - CMake
+- Cursor
+- Docker
 
 ## Visual Studio Code
 - C/C++

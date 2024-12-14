@@ -19,6 +19,10 @@
 - black
 - spotdl
 
+## Scholar
+- LaTeX Compiler
+- Zotero
+
 ## Tool
 - Chrome
 - Android Emulator
@@ -35,6 +39,7 @@
 - Adblock for Youtube
 - Immersive Translate
 - Glarity
+- elmo.chat
 
 ## Android Emulator
 - Via

@@ -20,7 +20,7 @@
 - spotdl
 
 ## Scholar
-- LaTeX Compiler
+- A LaTeX Compiler
 - Zotero
 
 ## Tool

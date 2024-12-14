@@ -20,7 +20,8 @@
 - spotdl
 
 ## Scholar
-- $(LaTeX Compiler)
+- TeX Live
+- MikTeX
 - Zotero
 
 ## Tool

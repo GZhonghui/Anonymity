@@ -18,6 +18,9 @@
 - virtualenv
 - black
 - spotdl
+- taichi
+- numpy
+- Pillow
 
 ## Scholar
 - TeX Live

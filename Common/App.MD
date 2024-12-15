@@ -51,7 +51,7 @@
 - Adblock for Youtube
 - Immersive Translate
 - Glarity
-- elmo.chat
+- Elmo Chat
 
 ## Android Emulator
 - Via

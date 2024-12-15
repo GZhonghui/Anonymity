@@ -1,5 +1,5 @@
 - Disable Automatic Updates
-- Config Auto Start Items
+- Configure Auto Start Items
 - Turn on Deepfreeze
 - Change DNS Server
 - Disable Webcam
@@ -14,8 +14,8 @@
 - Install Media Files
 - Set up File Server (HFS or SMB)
 - Disable Automatic Sleep
-- Config Chinese Input Method
-- Config Terminal, Vim, VS Code
+- Configure Chinese Input Method
+- Configure Terminal, Vim, VS Code
 - Install Multiple Version of Python
 - Create Python Virtual Environment (at ~)
-- Config C Compiler Include & Link Path (at ~)
+- Configure C Compiler Include & Link Path (at ~)

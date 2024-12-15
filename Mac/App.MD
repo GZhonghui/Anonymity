@@ -9,10 +9,13 @@
 - mpv
 - youtube-dl
 - FFmpeg
-- node (Node.js)
+- node
 
 ## Node
 - Vue
+
+## Scholar
+- MacTeX
 
 ## Tool
 - Mos

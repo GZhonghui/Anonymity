@@ -3,6 +3,8 @@
 - CMake
 - Cursor
 - Docker
+- Blender
+- WaveTerm
 
 ## Visual Studio Code
 - C/C++
@@ -20,7 +22,13 @@
 - spotdl
 - taichi
 - numpy
+- mitsuba
 - Pillow
+
+## Docker
+- ubuntu
+- stirlingtools/stirling-pdf
+- byaidu/pdf2zh
 
 ## Scholar
 - TeX Live
@@ -51,6 +59,9 @@
 ## Media
 - foobar2000
 - VLC
+
+## Book
+- calibre
 
 ## Social
 - Zoom

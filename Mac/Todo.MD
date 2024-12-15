@@ -6,4 +6,4 @@
 - Turn off AutoFill Passwords
 - Install Command Line Developer Tools (gcc and git)
 - Disable Natural Scrolling
-- Configure Terminal and Finder
+- Configure Finder

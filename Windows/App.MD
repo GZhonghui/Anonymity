@@ -7,7 +7,6 @@
 - Python 3
 - Lua
 - Git
-- Blender
 - Photoshop
 - Qt
 - MinGW
@@ -47,6 +46,3 @@
 ## Media
 - PotPlayer
 - qView
-
-## Book
-- calibre

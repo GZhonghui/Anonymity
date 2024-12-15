@@ -1,4 +1,5 @@
 - Disable Automatic Updates
+- Config Auto Start Items
 - Turn on Deepfreeze
 - Change DNS Server
 - Disable Webcam

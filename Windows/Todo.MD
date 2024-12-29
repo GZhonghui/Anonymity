@@ -3,3 +3,4 @@
 - Turn on Bitlocker
 - Edit Power Plan
 - Install Fonts
+- Install GPU Drivers

@@ -26,8 +26,6 @@
 
 ## Docker
 - ubuntu
-- stirlingtools/stirling-pdf
-- byaidu/pdf2zh
 
 ## Scholar
 - TeX Live

@@ -4,7 +4,6 @@
 - Cursor
 - Docker
 - Blender
-- WaveTerm
 
 ## Visual Studio Code
 - C/C++
@@ -44,6 +43,7 @@
 - BlinkMind
 - RIME
 - ChatGPT
+- FreeFileSync
 
 ## Chrome
 - DeepL

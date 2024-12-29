@@ -34,12 +34,10 @@
 - Substital
 - Windscribe
 - Adobe Acrobat
-- EPUBReader
 
 ## File
 - WinSCP
 - Advanced Renamer
-- FreeFileSync
 - RaiDrive
 - HFS
 

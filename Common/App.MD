@@ -4,6 +4,7 @@
 - Cursor
 - Docker
 - Blender
+- Unity
 
 ## Visual Studio Code
 - C/C++

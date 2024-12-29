@@ -1,6 +1,7 @@
 ## OS
 - Windows 11 (with Update and Driver)
 - Deep Freeze Standard
+- WSL 2
 
 ## Dev
 - Visual Studio (with C/C++/C#/Python Package)
@@ -10,7 +11,10 @@
 - Photoshop
 - Qt
 - MinGW
-- WSL
+
+## WSL 2
+- openssh-server
+- python3
 
 ## Game
 - Steam

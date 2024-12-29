@@ -3,18 +3,26 @@
 - Deep Freeze Standard
 - WSL 2
 
+## WSL 2
+- openssh-server
+- python3
+
 ## Dev
-- Visual Studio (with C/C++/C#/Python Package)
+- Visual Studio
 - Python 3
 - Lua
 - Git
 - Photoshop
 - Qt
 - MinGW
+- Unreal Engine
 
-## WSL 2
-- openssh-server
-- python3
+## Visual Studio
+- C/C++
+- C#
+- Python
+- Unity
+- Unreal Engine
 
 ## Game
 - Steam

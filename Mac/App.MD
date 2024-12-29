@@ -7,7 +7,6 @@
 
 ## Homebrew
 - mpv
-- youtube-dl
 - FFmpeg
 - node
 

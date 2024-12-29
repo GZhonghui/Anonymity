@@ -52,6 +52,7 @@
 - Immersive Translate
 - Glarity
 - Elmo Chat
+- Trancy
 
 ## Android Emulator
 - Via

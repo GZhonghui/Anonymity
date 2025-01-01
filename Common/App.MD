@@ -43,6 +43,7 @@
 - RIME
 - ChatGPT
 - FreeFileSync
+- LibreOffice
 
 ## Chrome
 - DeepL

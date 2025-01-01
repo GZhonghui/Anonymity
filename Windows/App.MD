@@ -36,7 +36,6 @@
 - 7-Zip
 - Everything
 - KeePass 2
-- LibreOffice
 
 ## KeePass 2
 - KeePassOTP

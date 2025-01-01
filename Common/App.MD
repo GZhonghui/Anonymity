@@ -59,6 +59,7 @@
 ## Media
 - foobar2000
 - VLC
+- Mp3tag
 
 ## Book
 - calibre

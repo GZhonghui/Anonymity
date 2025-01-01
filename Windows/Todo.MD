@@ -4,3 +4,4 @@
 - Edit Power Plan
 - Install Fonts
 - Install GPU Drivers
+- Install Vulkan SDK & CUDA Toolkit

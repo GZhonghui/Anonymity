@@ -14,6 +14,7 @@
 ## C Library
 - Boost
 - Eigen
+- LLVM
 
 ## Python
 - pip

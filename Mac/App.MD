@@ -20,7 +20,9 @@
 - Mos
 - Keka
 - MacPass
+- CrossOver
 
 ## Media
 - IINA
 - NetNewsWire
+- Infuse

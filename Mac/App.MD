@@ -2,6 +2,12 @@
 - MacOS (with Update)
 - Deep Freeze for Mac
 
+## Emulator
+- CrossOver
+- PlayCover
+- BlueStacks Air
+- MuMu Pro
+
 ## Dev
 - Homebrew
 
@@ -20,7 +26,6 @@
 - Mos
 - Keka
 - MacPass
-- CrossOver
 
 ## Media
 - IINA

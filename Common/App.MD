@@ -54,6 +54,7 @@
 - Glarity
 - Elmo Chat
 - Trancy
+- Tampermonkey
 
 ## Android Emulator
 - Via

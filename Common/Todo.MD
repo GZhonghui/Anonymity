@@ -8,6 +8,7 @@
   - Spell Check
   - Google Translate
   - Autofill and Passwords
+- Customize Chrome Fonts
 - Connect to a Wi-Fi network
 - Pair Bluetooth Devices
 - Clear Browser Cookies

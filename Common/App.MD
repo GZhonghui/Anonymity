@@ -9,12 +9,14 @@
 ## Visual Studio Code
 - C/C++
 - Python
+- Go
 - ChatGPT
 
 ## C Library
 - Boost
 - Eigen
 - LLVM
+- AtCoder
 
 ## Python
 - pip

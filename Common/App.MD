@@ -5,6 +5,8 @@
 - Docker
 - Blender
 - Unity
+- Python 3
+- Go
 
 ## Visual Studio Code
 - C/C++

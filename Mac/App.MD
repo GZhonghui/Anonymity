@@ -26,6 +26,7 @@
 - Mos
 - Keka
 - MacPass
+- Neat Download Manager
 
 ## Media
 - IINA

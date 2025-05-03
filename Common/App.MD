@@ -62,6 +62,7 @@
 
 ## Tampermonkey
 - LinkSwift
+- Picviewer CE+
 
 ## Android Emulator
 - Via

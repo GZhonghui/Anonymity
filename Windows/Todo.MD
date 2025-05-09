@@ -6,3 +6,4 @@
 - Install GPU Drivers
 - Install Vulkan SDK & CUDA Toolkit
 - Enable SSH Server (on Host & WSL 2)
+- Turn off all Animations (only for Windows 11)

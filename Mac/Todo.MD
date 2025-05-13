@@ -7,3 +7,4 @@
 - Install Command Line Developer Tools (gcc and git)
 - Disable Natural Scrolling
 - Configure Finder
+- Install Startup Script

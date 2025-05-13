@@ -63,6 +63,8 @@
 ## Tampermonkey
 - LinkSwift
 - Picviewer CE+
+- Bilibili Evolved
+- Pagetual
 
 ## Android Emulator
 - Via

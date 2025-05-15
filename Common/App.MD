@@ -29,6 +29,7 @@
 - numpy
 - mitsuba
 - Pillow
+- matplotlib
 
 ## Docker
 - ubuntu
@@ -59,6 +60,7 @@
 - Elmo Chat
 - Trancy
 - Tampermonkey
+- AYAYADASH - Anime Dashboard
 
 ## Tampermonkey
 - LinkSwift

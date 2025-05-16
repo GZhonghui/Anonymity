@@ -61,6 +61,7 @@
 - Trancy
 - Tampermonkey
 - AYAYADASH - Anime Dashboard
+- ChatGPT Exporter
 
 ## Tampermonkey
 - LinkSwift

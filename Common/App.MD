@@ -2,6 +2,7 @@
 - Visual Studio Code
 - CMake
 - Cursor
+- Windsurf
 - Docker
 - Blender
 - Unity

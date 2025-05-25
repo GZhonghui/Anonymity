@@ -12,7 +12,7 @@
 - Customize Chrome Fonts
 - Connect to a Wi-Fi network
 - Pair Bluetooth Devices
-- Clear Browser Cookies
+- Clear Browser Cookies (but do not delete)
 - Install Media Files
 - Set up File Server (HFS or SMB)
 - Disable Automatic Sleep

@@ -3,6 +3,7 @@
 - Deep Freeze for Mac
 
 ## Emulator
+- UTM
 - CrossOver
 - PlayCover
 - BlueStacks Air

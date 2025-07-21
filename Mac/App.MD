@@ -11,6 +11,7 @@
 
 ## Dev
 - Homebrew
+- Warp
 
 ## Homebrew
 - mpv

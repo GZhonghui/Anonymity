@@ -12,14 +12,19 @@
 ## Dev
 - Homebrew
 - Warp
+- nvm
+- gvm
 
 ## Homebrew
 - mpv
 - FFmpeg
 - node
+- gh
 
 ## Node
 - Vue
+- pnpm
+- claude-code
 
 ## Scholar
 - MacTeX

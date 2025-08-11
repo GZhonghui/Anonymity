@@ -16,6 +16,7 @@
 - Qt
 - MinGW
 - Unreal Engine
+- CUDA Toolkit
 
 ## Visual Studio
 - C/C++
@@ -56,3 +57,4 @@
 ## Media
 - PotPlayer
 - qView
+

@@ -64,6 +64,7 @@
 - Tampermonkey
 - AYAYADASH - Anime Dashboard
 - ChatGPT Exporter
+- Kiss Translator
 
 ## Tampermonkey
 - LinkSwift

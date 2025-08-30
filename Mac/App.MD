@@ -32,7 +32,7 @@
 ## Tool
 - Mos
 - Keka
-- MacPass
+- KeePassXC
 - Neat Download Manager
 
 ## Media

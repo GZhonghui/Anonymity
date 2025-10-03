@@ -34,6 +34,7 @@
 - Keka
 - KeePassXC
 - Neat Download Manager
+- Thincast Remote Desktop Client
 
 ## Media
 - IINA

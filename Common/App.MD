@@ -64,7 +64,10 @@
 - Tampermonkey
 - AYAYADASH - Anime Dashboard
 - ChatGPT Exporter
+- AI Exporter
 - Kiss Translator
+- AIX Downloader
+- Turbo Downloader for Instagram
 
 ## Tampermonkey
 - LinkSwift

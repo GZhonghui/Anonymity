@@ -23,3 +23,4 @@
 - Configure C Compiler Include & Link Path (at ~)
 - Set Default Browser
 - Set Default App for File Type
+- Configure SSH Config File (without key file)

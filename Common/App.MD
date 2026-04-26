@@ -2,8 +2,8 @@
 - Multipass
 - Visual Studio Code
 - CMake
-- Cursor
-- Windsurf
+- ~~Cursor~~
+- ~~Windsurf~~
 - Docker
 - Blender
 - Unity
@@ -14,7 +14,7 @@
 - C/C++
 - Python
 - Go
-- ChatGPT
+- ~~ChatGPT~~
 
 ## C Library
 - Boost
@@ -44,21 +44,22 @@
 ## Tool
 - Chrome
 - Android Emulator
-- Adobe Acrobat
+- ~~Adobe Acrobat~~
 - Dropbox
-- Eudic
+- ~~Eudic~~
 - BlinkMind
 - RIME
-- ChatGPT
+- ~~ChatGPT~~
 - FreeFileSync
 - LibreOffice
+- LocalSend
 
 ## Chrome
 - DeepL
-- Grammarly
+- ~~Grammarly~~
 - Adblock for Youtube
-- Immersive Translate
-- Glarity
+- ~~Immersive Translate~~
+- ~~Glarity~~
 - Elmo Chat
 - Trancy
 - Tampermonkey

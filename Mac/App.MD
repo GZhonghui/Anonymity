@@ -12,6 +12,7 @@
 ## Dev
 - Homebrew
 - Warp
+- Claude Code
 - nvm
 - gvm
 
@@ -31,6 +32,7 @@
 
 ## Tool
 - Mos
+- AltTab
 - Keka
 - KeePassXC
 - Neat Download Manager

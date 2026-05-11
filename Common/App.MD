@@ -83,6 +83,7 @@
 - foobar2000
 - VLC
 - Mp3tag
+- VideoCaptioner
 
 ## Book
 - calibre

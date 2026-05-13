@@ -21,6 +21,7 @@
 - FFmpeg
 - node
 - gh
+- codex
 
 ## Node
 - Vue

@@ -27,7 +27,6 @@
 ## Node
 - Vue
 - pnpm
-- claude-code
 
 ## Scholar
 - MacTeX

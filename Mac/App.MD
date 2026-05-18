@@ -22,6 +22,7 @@
 - node
 - gh
 - codex
+- rclone
 
 ## Node
 - Vue

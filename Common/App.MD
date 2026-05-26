@@ -14,6 +14,7 @@
 - C/C++
 - Python
 - Go
+- Remote - SSH (ms-vscode-remote.remote-ssh)
 - ~~ChatGPT~~
 
 ## C Library

@@ -9,6 +9,7 @@
 - Unity
 - Python 3
 - Go
+- Rust
 
 ## Visual Studio Code
 - C/C++
@@ -34,8 +35,8 @@
 - numpy
 - torch
 - mitsuba
-- Pillow
 - matplotlib
+- Pillow
 
 ## Docker
 - ubuntu

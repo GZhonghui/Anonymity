@@ -12,11 +12,11 @@
 - Python 3
 - Lua
 - Git
-- Photoshop
 - Qt
 - MinGW
 - Unreal Engine
 - CUDA Toolkit
+- Photoshop
 
 ## Visual Studio
 - C/C++
@@ -43,8 +43,8 @@
 - KeePassOTP
 
 ## Chrome
-- Search by Image
-- Substital
+- ~~Search by Image~~
+- ~~Substital~~
 - Windscribe
 - Adobe Acrobat
 

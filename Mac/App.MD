@@ -24,10 +24,12 @@
 - codex
 - claude-code
 - rclone
+- pdf2svg
 
 ## Node
-- vue
 - pnpm
+- vue
+- @mermaid-js/mermaid-cli
 
 ## Scholar
 - MacTeX

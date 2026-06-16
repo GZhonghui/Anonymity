@@ -4,15 +4,15 @@
 
 ## Emulator
 - UTM
-- CrossOver
-- PlayCover
-- BlueStacks Air
-- MuMu Pro
+- ~~CrossOver~~
+- ~~PlayCover~~
+- ~~BlueStacks Air~~
+- ~~MuMu Pro~~
 
 ## Dev
 - Homebrew
-- Warp
-- Claude Code
+- ~~Warp~~
+- ~~Claude Code~~
 - nvm
 - gvm
 
@@ -22,10 +22,11 @@
 - node
 - gh
 - codex
+- claude-code
 - rclone
 
 ## Node
-- Vue
+- vue
 - pnpm
 
 ## Scholar
@@ -36,10 +37,10 @@
 - AltTab
 - Keka
 - KeePassXC
-- Neat Download Manager
-- Thincast Remote Desktop Client
+- ~~Neat Download Manager~~
+- ~~Thincast Remote Desktop Client~~
 
 ## Media
 - IINA
 - NetNewsWire
-- Infuse
+- ~~Infuse~~

@@ -13,13 +13,12 @@
 - Homebrew
 - ~~Warp~~
 - ~~Claude Code~~
-- nvm
-- gvm
+- nvm (with Node.js)
+- gvm (with Golang)
 
 ## Homebrew
 - mpv
 - ffmpeg
-- node
 - gh
 - codex
 - claude-code
@@ -38,6 +37,7 @@
 - Mos
 - AltTab
 - Keka
+- MacPass
 - KeePassXC
 - ~~Neat Download Manager~~
 - ~~Thincast Remote Desktop Client~~

@@ -18,7 +18,7 @@
 
 ## Homebrew
 - mpv
-- FFmpeg
+- ffmpeg
 - node
 - gh
 - codex

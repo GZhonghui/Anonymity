@@ -8,3 +8,4 @@
 - Disable Natural Scrolling
 - Configure Finder
 - Install Startup Script
+- Clear Shell History (Zsh)

@@ -14,7 +14,9 @@
 - C/C++
 - Python
 - Go
+- Rust
 - Remote - SSH (ms-vscode-remote.remote-ssh)
+- Black Formatter (ms-python.black-formatter)
 - ~~ChatGPT~~
 
 ## C Library
@@ -30,6 +32,7 @@
 - spotdl
 - taichi
 - numpy
+- torch
 - mitsuba
 - Pillow
 - matplotlib
@@ -44,9 +47,10 @@
 
 ## Tool
 - Chrome
-- Android Emulator
+- ~~Android Emulator~~
 - ~~Adobe Acrobat~~
 - Dropbox
+- Box
 - ~~Eudic~~
 - BlinkMind
 - RIME
@@ -58,13 +62,13 @@
 ## Chrome
 - DeepL
 - ~~Grammarly~~
-- Adblock for Youtube
+- ~~Adblock for Youtube~~
 - ~~Immersive Translate~~
 - ~~Glarity~~
-- Elmo Chat
-- Trancy
+- ~~Elmo Chat~~
+- ~~Trancy~~
 - Tampermonkey
-- AYAYADASH - Anime Dashboard
+- ~~AYAYADASH - Anime Dashboard~~
 - ChatGPT Exporter
 - AI Exporter
 - Kiss Translator

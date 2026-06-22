@@ -1,4 +1,4 @@
-# ========== Backup V1.3 by Zhonghui ==========
+# ========== Backup V1.4 by Zhonghui ==========
 #
 # 更新日期：2026/06/22
 # 运行平台：Only on MacOS
@@ -46,7 +46,7 @@ set -u
 set -o pipefail
 
 # ---------- 版本号（用于标识备份包由哪个版本生成）----------
-VERSION="1.3"
+VERSION="1.4"
 
 # ---------- 备份列表（相对 $HOME 的路径；以 / 结尾表示文件夹）----------
 BACKUP_ITEMS=(
@@ -57,11 +57,6 @@ BACKUP_ITEMS=(
     ".ssh/"
     ".config/rclone/rclone.conf"
     ".codex/auth.json"
-    "Library/Application Support/Google/Chrome/Default/Account Web Data"
-    "Library/Application Support/Google/Chrome/Default/Login Data"
-    "Library/Application Support/Google/Chrome/Default/Login Data For Account"
-    "Library/Application Support/Google/Chrome/Default/Preferences"
-    "Library/Application Support/Google/Chrome/Default/Secure Preferences"
 )
 
 # ---------- 基本信息 ----------

@@ -1,7 +1,10 @@
-# ========== Backup V1.2 by Zhonghui ==========
+# ========== Backup V1.3 by Zhonghui ==========
 #
-# 更新日期：2026/06/16
+# 更新日期：2026/06/22
 # 运行平台：Only on MacOS
+#
+# ！！！注意！！！
+# 恢复/备份前一定要彻底退出Chrome、codex等
 #
 # 功能描述：
 # 将需要备份的文件内容压缩打包
@@ -12,7 +15,7 @@
 # 备份时：路径不存在则直接跳过
 # 恢复时：路径不存在则需要自动完成创建
 #
-# 备份列表：
+# 重点备份列表：
 # "$HOME/Library/Keychains/"
 # "$HOME/Library/Application Support/Google/Chrome/Local State"
 # "$HOME/Library/Application Support/Google/Chrome/Default/Cookies"
@@ -20,6 +23,8 @@
 # "$HOME/.ssh/"
 # "$HOME/.config/rclone/rclone.conf"
 # "$HOME/.codex/auth.json"
+# 其他备份列表：
+# ...
 #
 # 输出格式：
 # ~/Desktop/<username>_<date>_<time>.zip
@@ -41,7 +46,7 @@ set -u
 set -o pipefail
 
 # ---------- 版本号（用于标识备份包由哪个版本生成）----------
-VERSION="1.2"
+VERSION="1.3"
 
 # ---------- 备份列表（相对 $HOME 的路径；以 / 结尾表示文件夹）----------
 BACKUP_ITEMS=(
@@ -52,6 +57,11 @@ BACKUP_ITEMS=(
     ".ssh/"
     ".config/rclone/rclone.conf"
     ".codex/auth.json"
+    "Library/Application Support/Google/Chrome/Default/Account Web Data"
+    "Library/Application Support/Google/Chrome/Default/Login Data"
+    "Library/Application Support/Google/Chrome/Default/Login Data For Account"
+    "Library/Application Support/Google/Chrome/Default/Preferences"
+    "Library/Application Support/Google/Chrome/Default/Secure Preferences"
 )
 
 # ---------- 基本信息 ----------

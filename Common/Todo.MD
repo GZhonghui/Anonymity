@@ -11,7 +11,7 @@
 - Enable Developer Mode for Chrome Extensions
 - Customize Chrome Fonts
 - Connect to a Wi-Fi network
-- Pair Bluetooth Devices
+- Pair Bluetooth Devices (Mouse, Keyboard and Earphones)
 - Clear Browser Cookies (but do not delete)
 - Install Media Files
 - Set up File Server (HFS or SMB)

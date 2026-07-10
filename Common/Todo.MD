@@ -12,7 +12,7 @@
 - Customize Chrome Fonts
 - Connect to a Wi-Fi network
 - Pair Bluetooth Devices (Mouse, Keyboard and Earphones)
-- Clear Browser Cookies
+- Clear All Browsing Data (Chrome, Edge, etc)
 - Keep Using Chrome Default Profile
 - Install Media Files
 - Set up File Server (HFS or SMB)

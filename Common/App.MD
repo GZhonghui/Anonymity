@@ -59,6 +59,7 @@
 - FreeFileSync
 - LibreOffice
 - LocalSend
+- Thunderbird
 
 ## Chrome
 - DeepL

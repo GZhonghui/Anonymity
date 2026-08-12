@@ -31,7 +31,7 @@
 - Epic
 
 ## Tool
-- Listary
+- ~~Listary~~
 - VM Box
 - OBS
 - 7-Zip

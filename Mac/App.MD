@@ -15,6 +15,7 @@
 - ~~Claude Code~~
 - nvm (with Node.js)
 - gvm (with Golang)
+- Sublime Text
 
 ## Homebrew
 - mpv
@@ -35,7 +36,7 @@
 
 ## Tool
 - Mos
-- AltTab
+- ~~AltTab~~
 - Keka
 - MacPass
 - KeePassXC

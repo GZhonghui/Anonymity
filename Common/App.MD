@@ -76,6 +76,7 @@
 - Kiss Translator
 - AIX Downloader
 - Turbo Downloader for Instagram
+- MoviPlayer
 
 ## Tampermonkey
 - LinkSwift

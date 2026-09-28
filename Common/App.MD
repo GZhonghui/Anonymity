@@ -60,7 +60,7 @@
 - LibreOffice
 - LocalSend
 - Thunderbird
-- Rclone
+- Rclone (with rclone-extra)
 
 ## Chrome
 - DeepL

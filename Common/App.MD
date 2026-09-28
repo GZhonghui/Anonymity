@@ -78,6 +78,7 @@
 - AIX Downloader
 - Turbo Downloader for Instagram
 - MoviPlayer
+- PDF Viewer
 
 ## Tampermonkey
 - LinkSwift

@@ -1,3 +1,7 @@
+Recommend:
 cloudnas/clouddrive2:arm64-1.1.0
+toookyo/neteasemusic-docker:v0.1.0-arm64
+
+Deprecated:
 openlistteam/openlist:v4.2.4-aio
 johngong/baidunetdisk:v_4.17.7_arm64v8

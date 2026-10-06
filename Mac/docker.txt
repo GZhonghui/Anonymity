@@ -1,5 +1,6 @@
 Recommend:
 cloudnas/clouddrive2:arm64-1.1.0
+cloudnas/clouddrive2:arm64-1.1.1
 toookyo/neteasemusic-docker:v0.1.0-arm64
 
 Deprecated:

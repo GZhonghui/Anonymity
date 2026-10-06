@@ -1,10 +1,10 @@
-# ========== Backup V1.6 by Zhonghui ==========
+# ========== Backup V1.7 by Zhonghui ==========
 #
-# 更新日期：2026/07/02
+# 更新日期：2026/10/06
 # 运行平台：Only on MacOS
 #
 # ！！！注意！！！
-# 恢复/备份前一定要彻底退出Chrome、codex等
+# 恢复/备份前一定要彻底退出Chrome、codex、Docker Desktop等
 #
 # 功能描述：
 # 将需要备份的文件内容压缩打包
@@ -25,6 +25,8 @@
 # "$HOME/.claude.json"
 # "$HOME/.config/rclone/rclone.conf"
 # "$HOME/.codex/auth.json"
+# "$HOME/.docker/config.json"
+# "$HOME/.docker/daemon.json"
 # 其他备份列表：
 # ...
 #
@@ -48,7 +50,7 @@ set -u
 set -o pipefail
 
 # ---------- 版本号（用于标识备份包由哪个版本生成）----------
-VERSION="1.6"
+VERSION="1.7"
 
 # ---------- 备份列表（相对 $HOME 的路径；以 / 结尾表示文件夹）----------
 BACKUP_ITEMS=(
@@ -61,6 +63,8 @@ BACKUP_ITEMS=(
     ".claude.json"
     ".config/rclone/rclone.conf"
     ".codex/auth.json"
+    ".docker/config.json"
+    ".docker/daemon.json"
 )
 
 # ---------- 基本信息 ----------

@@ -9,3 +9,4 @@
 - Turn off all Animations (only for Windows 11)
 - Disk Cleanup
 - Defragment and Optimize Drives
+- Check Credential Manager

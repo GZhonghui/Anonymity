@@ -25,6 +25,7 @@
 - claude-code
 - rclone
 - pdf2svg
+- yt-dlp
 
 ## Node
 - pnpm

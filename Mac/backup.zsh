@@ -1,4 +1,4 @@
-# ========== Backup V1.7 by Zhonghui ==========
+# ========== Backup V1.8 by Zhonghui ==========
 #
 # 更新日期：2026/10/06
 # 运行平台：Only on MacOS
@@ -49,8 +49,14 @@
 set -u
 set -o pipefail
 
+# ---------- 开始前确认 ----------
+printf '已经完全退出 Chrome 和 Docker [Y/y]？'
+if ! IFS= read -r confirm_exit || [[ "$confirm_exit" != [yY] ]]; then
+    exit 0
+fi
+
 # ---------- 版本号（用于标识备份包由哪个版本生成）----------
-VERSION="1.7"
+VERSION="1.8"
 
 # ---------- 备份列表（相对 $HOME 的路径；以 / 结尾表示文件夹）----------
 BACKUP_ITEMS=(

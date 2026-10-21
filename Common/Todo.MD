@@ -22,6 +22,7 @@
 - Configure Terminal, Vim, VS Code
 - Install Multiple Versions of Python
 - Create Python Virtual Environment (at ~)
+- Set Default Python Environment (Zshrc, PowerShell Profile, etc)
 - Configure C Compiler Include & Link Path (at ~)
 - Create Bin Folder and Add it to PATH (at ~)
 - Set Default Browser

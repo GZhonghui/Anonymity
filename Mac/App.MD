@@ -1,5 +1,5 @@
 ## OS
-- MacOS (with Update)
+- MacOS (with Updates)
 - Deep Freeze for Mac
 
 ## Emulator
@@ -15,32 +15,32 @@
 - ~~Claude Code~~
 - nvm (with Node.js)
 - gvm (with Golang)
-- Sublime Text
+- ~~Sublime Text~~
 
 ## Homebrew
 - mpv
+- yt-dlp
 - ffmpeg
 - gh
 - codex
 - claude-code
 - rclone
-- pdf2svg
-- yt-dlp
+- ~~pdf2svg~~
 
 ## Node
 - pnpm
 - vue
-- @mermaid-js/mermaid-cli
+- ~~@mermaid-js/mermaid-cli~~
 
 ## Scholar
-- MacTeX
+- ~~MacTeX~~
 
 ## Tool
 - Mos
 - ~~AltTab~~
 - Keka
 - MacPass
-- KeePassXC
+- ~~KeePassXC~~
 - ~~Neat Download Manager~~
 - ~~Thincast Remote Desktop Client~~
 

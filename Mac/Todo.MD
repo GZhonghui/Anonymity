@@ -9,3 +9,6 @@
 - Configure Finder
 - Install Startup Script
 - Clear Shell History (Zsh)
+- Set Default App for File Type
+  - IINA
+  - foobar2000

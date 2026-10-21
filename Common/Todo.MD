@@ -1,27 +1,29 @@
 - Disable Automatic Updates
 - Configure Auto Start Items
-- Turn on Deepfreeze
+- Turn on Deep Freeze
 - Change DNS Server
 - Disable Webcam
 - Turn off Sound
+- Connect to a Wi-Fi network
+- Pair Bluetooth Devices (Mouse, Keyboard and Earphones)
 - Turn off Chrome Functions
   - Spell Check
   - Google Translate
   - Autofill and Passwords
 - Enable Developer Mode for Chrome Extensions
-- Customize Chrome Fonts
-- Connect to a Wi-Fi network
-- Pair Bluetooth Devices (Mouse, Keyboard and Earphones)
+- ~~Customize Chrome Fonts~~
 - Clear All Browsing Data (Chrome, Edge, etc)
 - Keep Using Chrome Default Profile
-- Install Media Files
-- Set up File Server (HFS or SMB)
+- ~~Install Media Files~~
+- ~~Set up File Server (HFS or SMB)~~
 - Disable Automatic Sleep
 - Configure Chinese Input Method
+- Configure Dictionary for RIME
 - Configure Terminal, Vim, VS Code
-- Install Multiple Version of Python
+- Install Multiple Versions of Python
 - Create Python Virtual Environment (at ~)
 - Configure C Compiler Include & Link Path (at ~)
+- Create Bin Folder and Add it to PATH (at ~)
 - Set Default Browser
 - Set Default App for File Type
-- Configure SSH Config File (without key file)
+- ~~Configure SSH Config File (without key file)~~

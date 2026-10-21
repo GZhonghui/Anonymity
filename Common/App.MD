@@ -18,6 +18,7 @@
 - Rust
 - Remote - SSH (ms-vscode-remote.remote-ssh)
 - Black Formatter (ms-python.black-formatter)
+- vscode-pdf (tomoki1207.pdf)
 - ~~ChatGPT~~
 
 ## C Library
@@ -28,7 +29,7 @@
 
 ## Python
 - pip
-- virtualenv
+- venv
 - black
 - spotdl
 - taichi
@@ -43,8 +44,8 @@
 
 ## Scholar
 - TeX Live
-- MikTeX
-- Zotero
+- ~~MikTeX~~
+- ~~Zotero~~
 
 ## Tool
 - Chrome
@@ -53,17 +54,17 @@
 - Dropbox
 - Box
 - ~~Eudic~~
-- BlinkMind
+- ~~BlinkMind~~
 - RIME
 - ~~ChatGPT~~
 - FreeFileSync
 - LibreOffice
 - LocalSend
-- Thunderbird
+- ~~Thunderbird~~
 - Rclone (with rclone-extra)
 
 ## Chrome
-- DeepL
+- ~~DeepL~~
 - ~~Grammarly~~
 - ~~Adblock for Youtube~~
 - ~~Immersive Translate~~
@@ -75,16 +76,17 @@
 - ChatGPT Exporter
 - AI Exporter
 - Kiss Translator
-- AIX Downloader
+- ~~AIX Downloader~~
 - Turbo Downloader for Instagram
 - MoviPlayer
 - PDF Viewer
 
 ## Tampermonkey
-- LinkSwift
-- Picviewer CE+
-- Bilibili Evolved
-- Pagetual
+- ~~LinkSwift~~
+- ~~Picviewer CE+~~
+- ~~Bilibili Evolved~~
+- ~~Pagetual~~
+- Bilibili-thread-ripper
 
 ## Android Emulator
 - Via
@@ -92,8 +94,8 @@
 ## Media
 - foobar2000
 - VLC
-- Mp3tag
-- VideoCaptioner
+- ~~Mp3tag~~
+- ~~VideoCaptioner~~
 
 ## Book
 - calibre

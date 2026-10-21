@@ -1,12 +1,16 @@
 - Set Local User (without Microsoft Account)
 - Activate Windows
-- Turn on Bitlocker
+- Turn on BitLocker
 - Edit Power Plan
 - Install Fonts
 - Install GPU Drivers
 - Install Vulkan SDK & CUDA Toolkit
-- Enable SSH Server (on Host & WSL 2)
-- Turn off all Animations (only for Windows 11)
+- ~~Enable SSH Server (on Host & WSL 2)~~
+- Turn off All Animations (only for Windows 11)
 - Disk Cleanup
 - Defragment and Optimize Drives
 - Check Credential Manager
+- Set Default App for File Type
+  - VLC
+  - foobar2000
+  - qView

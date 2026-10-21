@@ -1,11 +1,15 @@
 ## OS
-- Windows 11 (with Update and Driver)
+- Windows 11 (with Updates and Drivers)
 - Deep Freeze Standard
 - WSL 2
 
 ## WSL 2
-- openssh-server
+- ~~openssh-server~~
+- git
 - python3
+- build-essential
+- CMake
+- CUDA Toolkit
 
 ## Dev
 - Visual Studio
@@ -16,7 +20,8 @@
 - MinGW
 - Unreal Engine
 - CUDA Toolkit
-- Photoshop
+- Vulkan SDK
+- ~~Photoshop~~
 
 ## Visual Studio
 - C/C++
@@ -27,17 +32,17 @@
 
 ## Game
 - Steam
-- GOG
-- Epic
+- ~~GOG~~
+- ~~Epic~~
 
 ## Tool
 - ~~Listary~~
-- VM Box
+- VirtualBox
 - OBS
 - 7-Zip
 - Everything
 - KeePass 2
-- FFmpeg
+- ~~FFmpeg~~
 
 ## KeePass 2
 - KeePassOTP
@@ -45,14 +50,14 @@
 ## Chrome
 - ~~Search by Image~~
 - ~~Substital~~
-- Windscribe
-- Adobe Acrobat
+- ~~Windscribe~~
+- ~~Adobe Acrobat~~
 
 ## File
-- WinSCP
+- ~~WinSCP~~
 - Advanced Renamer
-- RaiDrive
-- HFS
+- ~~RaiDrive~~
+- ~~HFS~~
 
 ## Media
 - PotPlayer

@@ -62,3 +62,7 @@
 ## Media
 - PotPlayer
 - qView
+
+## Social
+- Discordo
+- tele
